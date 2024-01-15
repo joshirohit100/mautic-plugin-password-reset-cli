@@ -10,6 +10,10 @@ section -
 "type": "git",
 "url": "https://github.com/joshirohit100/mautic-plugin-password-reset-cli.git"
 ````
+Then run the composer require command
+```
+composer require joshirohit100/mautic-plugin-password-reset-cli
+```
 
 ## Command
 Provides a new command `mautic:reset:password` for password reset.
